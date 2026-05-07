@@ -1,4 +1,81 @@
 Computer Vision Lab
+
+EXPERIMENTS
+
+1  IMPLEMENTATION OF VARIOUS 
+FILTER TECHNIQUES 
+  
+1 a)  Implementation of Mean (Average) Filtering  
+
+1 b)  Implementation of Gaussian Filtering 
+Technique 
+  
+1 c)  Implementation of Median Filtering for 
+Noise Removal 
+  
+1 d)  Implementation of Bilateral Filtering for 
+Edge-Preserving Smoothing 
+  
+1 e)  Implementation of Laplacian Filtering for 
+Edge Detection 
+  
+2  IMPLEMENTATION OF IMAGE 
+ANNOTATION 
+  
+2 a)  Implementation of Text Annotation on 
+Images using OpenCV 
+  
+2 b)  Implementation of Shape-based Image 
+Annotations 
+  
+3  Program for Edge Detection, Corner 
+Detection and Line Detection 
+  
+4  Program to implement Histogram 
+Equalization 
+  
+5  Program to implement object labelling   
+
+6  IMPLEMENTATION OF FACE 
+REORGANIZATION SYSTEM 
+  
+6 a)  Implementation of a Basic Face Recognition 
+System using OpenCV 
+  
+6 b)  Implementation of Real-Time Face Detection 
+and Recognition using Haar Cascades 
+  
+7  LICENSE PLATE IDENTIFICATION   
+
+7 a)  Implementation of License Plate Detection 
+using OpenCV and Contour Analysis 
+  
+7 b)  Implementation of Automatic Number Plate 
+Recognition (ANPR) using Edge Detection 
+  
+8  IMPLEMENTATION OF VARIOUS 
+SEGMENTATION ALGORITHMS 
+  
+8 a)  Implementation of Threshold-based Image 
+Segmentation using Otsu’s Method 
+  
+8 b)  Implementation of Region Grouping 
+Segmentation Algorithm in Python 
+  
+9   FACE RECOGNITION USING COLOUR 
+MODEL REPRESENTATION 
+  
+9 a)  Implementation of Face Detection using HSV 
+Colour Model Representation 
+  
+9 b)  Implementation of Skin Colour Segmentation 
+for Face Recognition using YCbCr Model 
+  
+10  Authorized Face Recognition System using 
+Feature Matching 
+  
+11  Human Pose Estimation
+
 📌 Overview
 
 This repository contains all Computer Vision laboratory experiments implemented using Python. The experiments focus on understanding how machines interpret and analyze visual data using image processing and feature extraction techniques.
